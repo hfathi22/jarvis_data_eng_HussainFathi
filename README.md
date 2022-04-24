@@ -12,18 +12,18 @@ I am a recent Electrical and Biomedical Engineering graduate from McMaster Unive
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_HussainFathi](https://github.com/jarviscanada/jarvis_data_eng_HussainFathi)
+Project source code: [https://github.com/hfathi22/jarvis_data_eng_HussainFathi](https://github.com/jarviscanada/jarvis_data_eng_HussainFathi)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HussainFathi/tree/master/linux_sql)]: Designed, developed, and tested a Linux cluster usage administration agent that allows the user to analyze the usage data of different Linux machines connected together through a network switch. A PSQL docker container was employed in this project to store the machine's usage and hardware data that are obtained by executing two different bash scripts. Crontab was used to automate the data acquisition and the database insertion process of the usage data. Finally, multiple SQL queries can be executed to analyze the data.
+**Cluster Monitor** [[GitHub](https://github.com/hfathi22/jarvis_data_eng_HussainFathi/tree/master/linux_sql)]: Designed, developed, and tested a Linux cluster usage administration agent that allows the user to analyze the usage data of different Linux machines connected together through a network switch. A PSQL docker container was employed in this project to store the machine's usage and hardware data that are obtained by executing two different bash scripts. Crontab was used to automate the data acquisition and the database insertion process of the usage data. Finally, multiple SQL queries can be executed to analyze the data.
 
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HussainFathi/tree/master/core_java)]:
+**Core Java Apps** [[GitHub](https://github.com/hfathi22/jarvis_data_eng_HussainFathi/tree/master/core_java)]:
       
   - **Grep App**: Developed a Java application that searches through all the files in a given directory and outputs a text file containing all the lines matching a given regex pattern. The project employed Maven as the project management tool as well as Java Stream APIs for efficient memory usage. The app is available on DockerHub and can be deployed using Docker.
   - **JDBC App**: Utilized the JDBC API to connect the Java program with a PostgreSQL database. Data Access Object (DAO) was used to perform CRUD operations on the data. The application was built using Java with IntelliJ IDEA as the IDE along with Maven as the project management tool
   - **Twitter App**: Developed a Twitter CLI that allows the user to CRD (Create, Read and Delete) tweets through the command line by calling the Twitter REST API. The application was developed in Java and structured using Maven and Springboot. Packaged using Docker and can be obtained from DockerHub.
 
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HussainFathi/tree/master/hadoop)]: In this project, the World Development Indicators (WDI) dataset was processed and analyzed using Apache Hadoop. Built using Hadoop and Hive. Hadoop cluster was provisioned using Google Cloud Platform (GCP). All queries and results were save to a Zeppelin notebook.
+**Hadoop** [[GitHub](https://github.com/hfathi22/jarvis_data_eng_HussainFathi/tree/master/hadoop)]: In this project, the World Development Indicators (WDI) dataset was processed and analyzed using Apache Hadoop. Built using Hadoop and Hive. Hadoop cluster was provisioned using Google Cloud Platform (GCP). All queries and results were save to a Zeppelin notebook.
 
 
 ## Highlighted Projects
